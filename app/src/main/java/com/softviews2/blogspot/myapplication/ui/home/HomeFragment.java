@@ -30,6 +30,9 @@ public class HomeFragment extends Fragment {
 //                textView.setText(s);
 //            }
 //        });
+        
+//        new comment added from GitHub website
+        
         return root;
     }
 }
